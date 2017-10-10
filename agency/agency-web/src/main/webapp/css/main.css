@@ -1,0 +1,90 @@
+.body {
+	background:
+		url("https://images.martechadvisor.com/images/uploads/content_images/translation_or_localization_5735b0a909a70.jpg") no-repeat center top/cover;
+}
+.headerStarting {
+	background: #1ab2ff;
+	height: 40px;
+	margin: 0;
+	padding:0;
+}
+.headerStarting div{
+	font-family: Arryal,sans-serif;
+}
+.headerStarting div h3{
+	color:white;
+	font-size:30px;
+	margin:0 94px;
+	padding:0;
+}
+.logo{
+	waight: 100px;
+	height: 100px;
+	margin: 0;
+	padding:0;
+	float:left;
+}
+.div{
+	margin: 100px 520px;
+}
+.div h3{
+	font-size:20px;
+	color:white;
+	text-align:center;
+}
+.lableLogin{
+	color: white;
+	text-transform: uppercase;
+	margin: 0 95px;
+	font-weight: bold;
+}
+.lablePssword{
+	color: white;
+	text-transform: uppercase;
+	margin: 0 70px;
+	font-weight: bold;
+}
+.button1{
+	background: #1ab2ff;
+	color: white;
+	border-radius: 10px;
+	width: 100px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 10px;
+	margin-left: 7px;
+	margin-top: -2px;
+	
+}
+.button2{
+	background: #1ab2ff;
+	color: white;
+	border-radius: 10px;
+	width: 200px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: -15px 17px;
+}
+.button3{
+	background: #1ab2ff;
+	color: white;
+	border-radius: 10px;
+	width: 200px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: -15px 17px;
+}
+.button4{
+	background: #1ab2ff;
+	color: white;
+	border-radius: 10px;
+	width: 250px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: -15px;
+	margin-left: -5px;
+}
